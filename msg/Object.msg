@@ -4,7 +4,7 @@ string label
 # Object label ID (when using custom object detection it is the original model label)
 int16 label_id
 
-# Object instance ID (it is the ID assigned by the tracking API)
+# Object instance ID
 int16 instance_id
 
 # Object sub
