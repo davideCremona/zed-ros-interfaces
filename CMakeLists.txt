@@ -23,9 +23,12 @@ add_message_files(
     BoundingBox2Df.msg
     BoundingBox2Di.msg
     BoundingBox3D.msg
+    BoundingBox2DiArray.msg
     Keypoint2Df.msg
     Keypoint2Di.msg
     Keypoint3D.msg
+    ObjectDetectionBox.msg
+    ObjectDetectionBoxArray.msg
     Object.msg
     ObjectsStamped.msg
     Skeleton2D.msg
